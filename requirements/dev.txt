@@ -1,0 +1,9 @@
+-r base.txt
+bumpversion
+wheel
+watchdog
+flake8
+tox
+coverage
+Sphinx
+sphinx_rtd_theme
